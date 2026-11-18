@@ -1,0 +1,12 @@
+{
+  "name": "claude-council",
+  "owner": { "name": "qosss" },
+  "description": "Council for Claude Code. This is a fork of PandaCode (https://github.com/aicodeking/pandacode).",
+  "plugins": [
+    {
+      "name": "council",
+      "source": "./",
+      "description": "This is a fork of PandaCode (https://github.com/aicodeking/pandacode). Independent reviewers score Claude's work out of 10, and Claude keeps fixing until every reviewer reaches your target or a round limit stops it."
+    }
+  ]
+}

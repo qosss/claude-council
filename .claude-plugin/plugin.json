@@ -1,0 +1,8 @@
+{
+  "name": "council",
+  "version": "0.1.1",
+  "description": "This is a fork of PandaCode (https://github.com/aicodeking/pandacode). Independent reviewers score Claude's work out of 10, and Claude keeps fixing until every reviewer reaches your target or a round limit stops it. Each round runs several subagents. Off by default: turn it on with /council on.",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": "https://github.com/qosss/claude-council",
+  "types": "./types/index.d.ts"
+}
